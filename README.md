@@ -1,4 +1,4 @@
-#### This repository contains the materials and files (Mostly Lab Files) for the Data Structure course (CSE220) of the Fall 2023 semester. The code files are on Python.
+#### This repository contains the materials and files (Mostly Lab Files) for the Data Structure course (CSE220) of the Fall 2023 semester. The files are written on Python though the logic is same for all languages.
 
 ## Plagarism Alert
 
